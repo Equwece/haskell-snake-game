@@ -42,6 +42,12 @@ stack run haskell-snake-game-exe
 
 - Project repository: https://github.com/Equwece/haskell-snake-game
 
+## Acknowledgments
+
+- The project used [Roboto](https://fonts.google.com/specimen/Roboto) font.
+- The project used Monomer [logo](https://github.com/fjvallarino/monomer/blob/main/assets/images/icon.png).
+
 ## Licensing
 
 The code in this project is licensed under GPLv3 license.
+
